@@ -1,3 +1,3 @@
 This zip contains the final file.
 
-We cannot access github for some reason, will try to commit before 1:30.
+The repo is AGrondin/arcologists, accessible at https://github.com/AGrondin/arcologists.git
